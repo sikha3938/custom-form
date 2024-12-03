@@ -1,5 +1,3 @@
-# Define the content of the README file
-readme_content = """
 # React Drag-and-Drop Form Builder
 
 A customizable drag-and-drop form builder built with **React** and **react-dnd**. Users can create forms dynamically by dragging form elements into the builder area.
